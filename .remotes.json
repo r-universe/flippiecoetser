@@ -1,0 +1,20 @@
+[
+  {
+    "package": "Environment",
+    "url": "https://github.com/FlippieCoetser/Environment",
+    "via": ["Storage"],
+    "from": "Storage"
+  },
+  {
+    "package": "Query",
+    "url": "https://github.com/FlippieCoetser/Query",
+    "via": ["Storage"],
+    "from": "Storage"
+  },
+  {
+    "package": "Validate",
+    "url": "https://github.com/FlippieCoetser/Validate",
+    "via": ["Storage"],
+    "from": "Storage"
+  }
+]
