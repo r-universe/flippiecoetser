@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/flippiecoetser/flippiecoetser.r-universe.dev
 	branch = HEAD
+[submodule "Environment"]
+	path = Environment
+	url = https://github.com/FlippieCoetser/Environment
+[submodule "Query"]
+	path = Query
+	url = https://github.com/FlippieCoetser/Query
+[submodule "Storage"]
+	path = Storage
+	url = https://github.com/FlippieCoetser/Storage
+[submodule "Validate"]
+	path = Validate
+	url = https://github.com/FlippieCoetser/Validate
