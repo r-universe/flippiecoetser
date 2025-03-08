@@ -37,7 +37,7 @@
   },
   {
     "package": "Validate",
-    "url": "https://github.com/FlippieCoetser/Validate",
+    "url": "https://github.com/scalable-software/Validate",
     "via": ["Storage"],
     "from": "Storage"
   }
